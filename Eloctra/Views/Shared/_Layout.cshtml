@@ -1,0 +1,107 @@
+﻿@inject SignInManager<IdentityUser> signinmanager
+@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor Accessor
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Eloctra</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Product" asp-action="Index">Eloctra</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item" style="margin-left:30px">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Index"><i class="bi bi-film"></i> Products</a>
+                        </li>
+                    </ul>
+
+                    @if (@Accessor.HttpContext.Session.GetString("UserName") == "jayshah2002")
+                    {
+                        
+                                <div class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <i class="bi bi-gear"></i> Management
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" asp-controller="Company" asp-action="Index"><i class="bi bi-camera-reels"></i> Company</a>
+                                    </div>
+                                </div>
+                            
+
+                    }
+
+
+                    @*If the user is signed-in display Logout Link*@
+                    @{ bool val = true;
+                        if (@Accessor.HttpContext.Session.GetString("UserName") == null)
+                        {
+                            val = false;
+                        }
+
+                    }
+                    @if (val)
+                    {
+                        <ul class="navbar-nav d-flex text-right">
+                            <li class="nav-item">
+                                <form method="post" asp-controller="account" asp-action="logout">
+                                    @*<a class="btn btn-primary" asp-area="" >Logout</a>*@
+                                    <button type="submit" class="nav-link btn text-right btn-primary">
+                                        Logout
+                                    </button>
+                                </form>
+                            </li>
+                        </ul>
+                    }
+                    else
+                    {
+                        <ul class="navbar-nav d-flex justify-content-end flex-grow-1">
+                            <li class="nav-item" style="margin-left:50px">
+                                <a asp-action="Login" asp-controller="Account" class="btn btn-primary">Login</a>
+                            </li>
+                            <li class="nav-item" style="margin-left:30px">
+                                <a asp-action="Register" asp-controller="Account" class="btn btn-primary">Register</a>
+                            </li>
+                        </ul>
+                    }
+
+                    <ul class="navbar-nav">
+                        @await Component.InvokeAsync("ShoppingCartSummary")
+                    </ul>
+
+                   
+                   
+                        
+
+                </div>
+                @if (@Accessor.HttpContext.Session.GetString("UserName") != null)
+                {
+                    <div style="margin-right:0px">Hello, @Accessor.HttpContext.Session.GetString("UserName")</div>
+                }
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

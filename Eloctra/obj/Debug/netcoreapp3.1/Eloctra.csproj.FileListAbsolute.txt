@@ -1,0 +1,283 @@
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.exe
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.deps.json
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.runtimeconfig.json
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.runtimeconfig.dev.json
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.pdb
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.Views.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.Views.pdb
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.AssemblyReference.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.AssemblyInfoInputs.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.AssemblyInfo.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.CoreCompileInputs.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorAssemblyInfo.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorAssemblyInfo.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\staticwebassets\Eloctra.StaticWebAssets.Manifest.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\staticwebassets\Eloctra.StaticWebAssets.xml
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\scopedcss\bundle\Eloctra.styles.css
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.TagHelpers.input.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.TagHelpers.output.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorCoreGenerate.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorTargetAssemblyInfo.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorTargetAssemblyInfo.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.Views.pdb
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.pdb
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.genruntimeconfig.cache
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.CopyComplete
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\Jay Shah\source\repos\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.exe
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.deps.json
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.runtimeconfig.json
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.runtimeconfig.dev.json
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.pdb
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.Views.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.Views.pdb
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.AssemblyReference.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.AssemblyInfoInputs.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.AssemblyInfo.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.CoreCompileInputs.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.MvcApplicationPartsAssemblyInfo.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorAssemblyInfo.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorAssemblyInfo.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\staticwebassets\Eloctra.StaticWebAssets.Manifest.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\staticwebassets\Eloctra.StaticWebAssets.xml
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\scopedcss\bundle\Eloctra.styles.css
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.TagHelpers.input.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.TagHelpers.output.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorCoreGenerate.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Index.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorTargetAssemblyInfo.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorTargetAssemblyInfo.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.Views.pdb
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.CopyComplete
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.dll
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.pdb
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.genruntimeconfig.cache
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Create.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Details.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Edit.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Delete.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.exe
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.deps.json
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.runtimeconfig.json
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.runtimeconfig.dev.json
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.pdb
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.Views.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Eloctra.Views.pdb
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.AssemblyReference.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.AssemblyInfoInputs.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.AssemblyInfo.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.CoreCompileInputs.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorAssemblyInfo.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorAssemblyInfo.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\staticwebassets\Eloctra.StaticWebAssets.Manifest.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\staticwebassets\Eloctra.StaticWebAssets.xml
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\scopedcss\bundle\Eloctra.styles.css
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.TagHelpers.input.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.TagHelpers.output.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorCoreGenerate.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Create.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Delete.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Details.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Edit.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorTargetAssemblyInfo.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.RazorTargetAssemblyInfo.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.Views.pdb
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.csproj.CopyComplete
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.pdb
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Eloctra.genruntimeconfig.cache
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Eloctra\Eloctra\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\Users\Jay Shah\OneDrive\Documents\GitHub\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\Eloctra\Eloctra\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
